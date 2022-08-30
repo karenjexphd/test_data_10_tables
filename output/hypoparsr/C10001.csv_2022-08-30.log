@@ -1,0 +1,38 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10001.csv', generated 30 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+     V1           Exports Imports Balance                  Exports1 Imports1
+2    NA ICT goods totally                 Audio and video equipment         
+4  2008            18 080  39 219 -21 139                       693    7 712
+5  2007            15 341  39 945 -24 604                       691    7 998
+6  2006            14 123  39 942 -25 819                       714    7 438
+7  2005            12 118  34 807 -22 689                       709    6 159
+8  2004            11 347  34 000 -22 653                       635    5 319
+9  2003            10 577  28 124 -17 547                       545    4 515
+10 2002            10 827  27 891 -17 064                       539    4 221
+   Balance1                       Exports2 Imports2 Balance2
+2           Computer and related equipment                  
+4    -7 019                          1 899   12 878  -10 979
+5    -7 307                          1 799   13 378  -11 579
+6    -6 724                          2 046   15 306  -13 260
+7    -5 450                          1 594   14 495  -12 901
+8    -4 684                          1 613   14 121  -12 508
+9    -3 970                          1 850   11 968  -10 118
+10   -3 682                          2 106   12 284  -10 178
+                Exports3 Imports3 Balance3                     Exports4
+2  Electronic components                NA Telecommunications equipment
+4                  3 942    3 905       37                        5 255
+5                  2 801    4 189       -1                        4 543
+6                  2 583    4 140       -1                        4 573
+7                  1 948    3 350       -1                        4 395
+8                  1 613    3 409       -1                        4 378
+9                  1 726    2 665     -939                        3 451
+10                 1 780    2 662     -882                        3 289
+   Imports4 Balance4        Exports5 Imports5 Balance5
+2                    Other ICT goods                  
+4     9 284   -4 029           6 292    5 439      853
+5     9 353   -4 810           5 507    5 027      480
+6     8 301   -3 728           4 208    4 756     -548
+7     7 254   -2 859           3 471    3 549      -78
+8     7 826   -3 448           3 107    3 324     -217
+9     6 139   -2 688           3 005    2 837      168
+10    5 852   -2 563           3 114    2 871      243

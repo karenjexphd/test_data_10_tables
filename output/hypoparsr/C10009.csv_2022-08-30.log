@@ -1,0 +1,38 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10009.csv', generated 36 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+                                        V1 St. John's (N.L.) number
+3                                                          2006.000
+5                   Total - Place of birth                    5.255
+6                            United States                  860.000
+7                Central and South America                  265.000
+8                    Caribbean and Bermuda                  115.000
+9                                   Europe                    2.285
+10                          United Kingdom                    1.385
+11       Other Northern and Western Europe                  465.000
+12                          Eastern Europe                  235.000
+13                         Southern Europe                  195.000
+14                                  Africa                  435.000
+15                Asia and the Middle East                    1.250
+16   West Central Asia and the Middle East                  150.000
+17                            Eastern Asia                  435.000
+18                          Southeast Asia                  120.000
+19                           Southern Asia                  550.000
+20                       Oceania and other                   35.000
+   Halifax (N.S.) number Moncton (N.B.) number Saint John (N.B.) number
+3                     NA                    NA                       NA
+5                  27410                  4245                     5035
+6                   3370                  1250                      915
+7                    560                   140                      220
+8                    730                   105                      110
+9                  12535                  1735                     2470
+10                  6585                   800                     1455
+11                  2615                   580                      505
+12                  1555                   150                      200
+13                  1780                   205                      310
+14                  1805                   440                      150
+15                  8095                   545                     1125
+16                  3475                    90                      365
+17                  2035                   195                      340
+18                   880                   130                      205
+19                  1695                   135                      215
+20                   315                    30                       45

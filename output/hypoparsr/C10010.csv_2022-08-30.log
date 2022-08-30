@@ -1,0 +1,22 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10010.csv', generated 32 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+                       (Canada) 2003 $ thousands 2004 $ thousands
+4                        Canada               NA               NA
+5                 Total revenue          1500065          1612694
+6             Operating revenue          1485888          1594230
+7         Non-operating revenue            14177            18464
+8                Total expenses          1310120          1401159
+9            Operating expenses          1277031          1366472
+10       Non-operating expenses            33089            34687
+11            Operating margin1           208857           227758
+12 Estimated number of carriers            37978            38659
+   2005 $ thousands 2006 $ thousands 2007 $ thousands
+4                NA               NA               NA
+5           1663808          1770769          1901308
+6           1650174          1761737          1888917
+7             13634             9033            12390
+8           1464959          1533970          1556922
+9           1426520          1491448          1520422
+10            38439            42522            36500
+11           223654           270288           368495
+12            38897            40677            41283

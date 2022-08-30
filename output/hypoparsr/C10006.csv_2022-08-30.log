@@ -1,0 +1,23 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10006.csv', generated 48 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+                                                                                    3.7 Part-time employed persons by sex 2010/02 - 2009/02.Sex
+6                                                                                                                                    Both sexes
+7                                                                                                                                         Males
+8                                                                                                                                       Females
+10                                                                               Source: Labour force survey 2010, February. Statistics Finland
+11 Inquiries: Heidi Melasniemi-Uutela (09) 1734 2523, Kalle Sinivuori (09) 1734 3524, Juha Martikainen (09) 1734 3225, tyovoimatutkimus@stat.fi
+12                                                                                                            Director in charge: Riitta Harala
+   Year/Month.2010/02 1000 persons 2010/01 1000 persons 2009/02 1000 persons
+6                              373                  357                  368
+7                              132                  127                  118
+8                              241                  230                  250
+10                              NA                   NA                   NA
+11                              NA                   NA                   NA
+12                              NA                   NA                   NA
+   Change 2010/02 - 2009/02 Per cent (%)
+6                                    1.4
+7                                   12.3
+8                                   -3.7
+10                                    NA
+11                                    NA
+12                                    NA

@@ -1,0 +1,24 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10007.csv', generated 38 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+                                V1 Canada number N.L. number P.E.I. number
+3                                           2006          NA            NA
+5  Total - modes of transportation      14714260      190380         61410
+6     Car, truck or van, as driver      10644330      140370         48910
+7  Car, truck or van, as passenger       1133150       23930          6815
+8                   Public transit       1622725        3665           310
+9                   Walked to work        939290       14635          4050
+10                         Bicycle        195510         540           445
+11                      Motorcycle         20085         105            55
+12                         Taxicab         32240         920           265
+13                    Other method        126925        6210           565
+   N.S. number N.B. number
+3           NA          NA
+5       402960      323065
+6       293220      251630
+7        43710       36090
+8        23960        6365
+9        33020       21385
+10        2625        2115
+11         495         455
+12        1695        2015
+13        4220        3025

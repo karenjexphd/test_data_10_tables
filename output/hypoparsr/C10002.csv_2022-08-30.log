@@ -1,0 +1,135 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10002.csv', generated 24 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+   Regional Council by Highest Qualification(1) for the Census Usually Resident Population Count Aged 15 Years and Over.2006 Census.Regional Council
+5                                                                                                                                   Northland Region
+6                                                                                                                                    Auckland Region
+7                                                                                                                                     Waikato Region
+8                                                                                                                               Bay of Plenty Region
+9                                                                                                                                    Gisborne Region
+10                                                                                                                                Hawke's Bay Region
+11                                                                                                                                   Taranaki Region
+12                                                                                                                          Manawatu-Wanganui Region
+13                                                                                                                                 Wellington Region
+14                                                                                                                                 West Coast Region
+15                                                                                                                                 Canterbury Region
+16                                                                                                                                      Otago Region
+17                                                                                                                                  Southland Region
+18                                                                                                                                     Tasman Region
+19                                                                                                                                     Nelson Region
+20                                                                                                                                Marlborough Region
+21                                                                                                                               Area Outside Region
+22                                                                                                                                             Total
+   No Qualification Level 1 Certificate Gained at School
+5             31101                                16158
+6            183681                               105348
+7             76197                                39975
+8             50685                                27396
+9              9570                                 4512
+10            31347                                16005
+11            23607                                11697
+12            48198                                23457
+13            64614                                38166
+14             7989                                 3570
+15            98439                                55218
+16            34335                                18837
+17            22959                                11214
+18             8583                                 5058
+19             7989                                 4437
+20             8997                                 4977
+21              141                                   54
+22           708432                               386070
+   Level 2 Certificate Gained at School
+5                                  8694
+6                                 79686
+7                                 24708
+8                                 16296
+9                                  2769
+10                                 9912
+11                                 6462
+12                                14841
+13                                31344
+14                                 2019
+15                                38580
+16                                12855
+17                                 6144
+18                                 3303
+19                                 3165
+20                                 3027
+21                                   39
+22                               263847
+   Level 3 or 4 Certificate Gained at School
+5                                       3267
+6                                      60444
+7                                      13161
+8                                       6648
+9                                       1140
+10                                      4017
+11                                      2424
+12                                      9060
+13                                     23457
+14                                       780
+15                                     24960
+16                                     14787
+17                                      2163
+18                                      1182
+19                                      1326
+20                                      1233
+21                                        12
+22                                    170055
+   Overseas Secondary School Qualification
+5                                     3963
+6                                    90546
+7                                    11421
+8                                     7542
+9                                      687
+10                                    3651
+11                                    2022
+12                                    4827
+13                                   17973
+14                                     474
+15                                   18519
+16                                    5676
+17                                    1284
+18                                    1347
+19                                    1488
+20                                    1155
+21                                      12
+22                                  172590
+   Level 1, 2 or 3 Certificate Gained Post-school
+5                                            4701
+6                                           39534
+7                                           12519
+8                                            9579
+9                                            1473
+10                                           4830
+11                                           3651
+12                                           7686
+13                                          14928
+14                                           1080
+15                                          14685
+16                                           6594
+17                                           2874
+18                                           1467
+19                                           1596
+20                                           1398
+21                                             18
+22                                         128622
+   Level 4 Certificate Gained Post-school
+5                                   11625
+6                                   78630
+7                                   28914
+8                                   21501
+9                                    3072
+10                                  11154
+11                                   8526
+12                                  16377
+13                                  29679
+14                                   2652
+15                                  39870
+16                                  15726
+17                                   7119
+18                                   3984
+19                                   3798
+20                                   3915
+21                                     60
+22                                 286599

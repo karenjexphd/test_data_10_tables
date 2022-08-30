@@ -1,0 +1,40 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10004.csv', generated 36 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+   Regional Council by Number of Languages Spoken for the Census Usually Resident Population Count.2006 Census.Regional Council
+5                                                                                                              Northland Region
+6                                                                                                               Auckland Region
+7                                                                                                                Waikato Region
+8                                                                                                          Bay of Plenty Region
+9                                                                                                               Gisborne Region
+10                                                                                                           Hawke's Bay Region
+11                                                                                                              Taranaki Region
+12                                                                                                     Manawatu-Wanganui Region
+13                                                                                                            Wellington Region
+14                                                                                                            West Coast Region
+15                                                                                                            Canterbury Region
+16                                                                                                                 Otago Region
+17                                                                                                             Southland Region
+18                                                                                                                Tasman Region
+19                                                                                                                Nelson Region
+20                                                                                                           Marlborough Region
+21                                                                                                          Area Outside Region
+22                                                                                                                        Total
+   Five Languages Six Languages Not Elsewhere Included(2)   Total
+5             138            66                     11544  148470
+6            2397           633                     76161 1303068
+7             315           102                     19941  382713
+8             210            78                     13410  257379
+9              27             6                      2748   44496
+10            102            45                      6933  147783
+11             60            24                      5247  104124
+12            183            48                      9042  222423
+13            672           213                     17415  448959
+14             24             3                      1482   31326
+15            549           168                     17043  521832
+16            225            42                      7872  193803
+17             36            12                      3000   90876
+18             36             6                      1746   44628
+19             45            18                      1476   42888
+20             27            12                      2067   42558
+21              0             0                        54     618
+22           5052          1476                    197187 4027947

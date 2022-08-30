@@ -1,0 +1,8 @@
+[1] "Result of running hypoparsr on file '/home/vagrant/test_data_10_tables/converted_to_csv/C10005.csv', generated 68 hypotheses, use as.data.frame() to get best parsing result."
+[1] "Best Guess: "
+                                     V1 Container Tanker Dry bulk General Other
+6                                 Calls      2549   1443      274     105   597
+7 Capacity (deadweight tons, thousands)    127359  77897    10788    1577 14805
+   Total
+6   4968
+7 232426
