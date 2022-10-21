@@ -1,0 +1,6 @@
+Folder contents:
+
+C10001.xls              original spreadsheet 
+C10001.csv              original spreadsheet exported to CSV (suitable for input to Pytheas)
+C10001.json             Pytheas ground truth (corresponds to C100001.csv)
+C10001_annotated.xlsx   annotated version of original spreadsheet (suitable for input to TabbyXL)
