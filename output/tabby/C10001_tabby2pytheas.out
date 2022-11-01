@@ -1,20 +1,19 @@
-{'blanklines': [],
- 'columns_in_file': ,                  # can't get this information from the output - only contains info about the extracted table(s)
- 'columns_in_file_considered': 19,     # num cols that appear in provenance col (B) of either ENTRIES or LABELS sheet
- 'lines_processed': 9,                 # num rows that appear in provenance col (B) of either ENTRIES or LABELS sheet
- 'tables': [{'bottom_boundary': 10,    # max row index - 1 in provenance col (B) of ENTRIES sheet
-             'columns': {              # one column per col index in provenance col (B) of LABELS sheet 
-                                       # dummy columns section for now because it will not be used in Pytheas evaluation
-                         0: {'column_header': [], 
-                             'table_column': 0} 
-}
-             'confidence': {'body': ,
-                            'body_end': ,
-                            'body_start': },
-             'data_end': ,
-             'data_start': ,
-             'footnotes': [],
-             'header': [],
-             'subheaders': [],
-             'table_counter': ,
-             'top_boundary': }]}
+{"blanklines": [],
+ "columns_in_file": 19,                  
+ "columns_in_file_considered": 19,     
+ "lines_processed": 9,                 
+ "tables": [{"bottom_boundary": 10,    
+             "columns": {              
+                         "0": {"column_header": [], 
+                             "table_column": 0} 
+                        },
+             "confidence": {"body": 0.9,
+                            "body_end": 0.9,
+                            "body_start": 0.9},
+             "data_end": 10,
+             "data_start": 3,
+             "footnotes": [],
+             "header": [],
+             "subheaders": [],
+             "table_counter": ,
+             "top_boundary": 3}]}

@@ -1,35 +1,16 @@
-{
-"blanklines": [],
-"tables": [{
-"table_counter": 1,
-"top_boundary": 0,
-"bottom_boundary": 13,
-"data_start": 5,
-"data_end": 11,
-"headnotes": [0, 1, 2, 3, 4],
-"header": [4],
-"subheaders": [10],
-"data_indexes": [5, 6, 7, 8, 9, 11],
-"first_data_line": 5,
-"not_data": [0, 1, 2, 3, 4, 10, 12, 13],
-"footnotes": [12, 13]
-}]
-}
-
-
-{'blanklines': [],
- 'columns_in_file': 19,
- 'columns_in_file_considered': 19,
- 'lines_processed': 10,
- 'tables': [{'bottom_boundary': 9,
-             'data_end': 9,
-             'headnotes': [0],                 # not in output: list of headnote row indexess 
-             'data_start': 3,
-             'footnotes': [],
-             'header': [1, 2],
-             'subheaders': [],
-             'data_indexes': [3,4,5,6,7,8,9],  # not in output: indexe of all rows between data_start and data_end except subheaders
-             'first_data_line': 3,             # not in output: same as data_start
-             'not_data': [0],                  # not in output: indexes of all non-data rows ie headnotes, subheaders and footnotes
-             'table_counter': 1,
-             'top_boundary': 0}]}
+{"blanklines": [],
+ "columns_in_file": 19,
+ "columns_in_file_considered": 19,
+ "lines_processed": 10,
+ "tables": [{"bottom_boundary": 9,
+             "data_end": 9,
+             "headnotes": [0],                 
+             "data_start": 3,
+             "footnotes": [],
+             "header": [1, 2],
+             "subheaders": [],
+             "data_indexes": [3,4,5,6,7,8,9],  
+             "first_data_line": 3,             
+             "not_data": [0],                  
+             "table_counter": 1,
+             "top_boundary": 0}]}
